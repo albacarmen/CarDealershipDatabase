@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS CarDealershipDB;
+CREATE DATABASE CarDealershipDB;
+USE CarDealershipDB;
+
